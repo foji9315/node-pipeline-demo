@@ -1,2 +1,2 @@
 # node-pipeline-demo
-node jenkins integration
+node jenkins integration - master
